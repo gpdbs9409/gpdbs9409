@@ -37,6 +37,16 @@
 -------- 
 
 
+ECT 
+성격적 장점 
+
+1.커뮤니케이션)과외 다 
+
+2. 
+
+잔기술 
+PPT/발표 
+사주보기 
 
 ![N|Solid](https://i.imgur.com/56QYiUM.gif)
 
