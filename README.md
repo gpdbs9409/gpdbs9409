@@ -26,6 +26,7 @@
   - Selenium
   - Bs4
 
+https://github.com/gpdbs9409/Big_Data_NLP
 ---
 
 ✔️ <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">  
@@ -44,6 +45,8 @@
 - 멀티스레드(pthread), mutex 동기화  
 - **JMeter + PostgreSQL**로 성능 테스트 진행
 - 강좌 우수작 선정(개인 텀프로젝트,추후 강의자료 선정)
+
+- https://github.com/gpdbs9409/LetStudy
 ---
 
 ### ⭐⭐
