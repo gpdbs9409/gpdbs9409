@@ -5,7 +5,12 @@
 
 ------
 
-## Final Vocabulary: KIND
+## Final Vocabulary: 
+KIND(Korea Overseas Infrastructure & Urban Development Corporation)
+
+
+![1](https://github.com/user-attachments/assets/39b29b09-4863-4789-97d2-9acfa63fe9ff)
+![1](https://github.com/user-attachments/assets/5cf11607-8643-4619-bee0-09919a6f76bc)
 
 
 ## ✌🏻 컴퓨터공학도로서 배운 것 ✌🏻
@@ -37,15 +42,16 @@
 - **Figma**로 기획 & 디자인  
 - **Android Studio**에서 프론트엔드(MVC) 구현  
 - **네이버 API 연동**, **비동기 처리(FutureBuilder)** 구현
-
+- 졸업작품 우수상 
 ---
 
 ✔️ <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">  
 
-- 리눅스 우분투 기반 로컬 그룹 채팅 프로그램 개발  
+- 리눅스 우분투 기반 로컬 그룹 채팅 프로그램 개발
+- Socket Programming  
 - 멀티스레드(pthread), mutex 동기화  
 - **JMeter + PostgreSQL**로 성능 테스트 진행
-
+- 우수작 선정(추후 강의자료 선정)
 ---
 
 ### ⭐⭐
