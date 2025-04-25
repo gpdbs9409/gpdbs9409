@@ -70,9 +70,9 @@ KIND(Korea Overseas Infrastructure & Urban Development Corporation)
 
 ### ⭐
 
-C++
-
 <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+
+
 
 ---
 
