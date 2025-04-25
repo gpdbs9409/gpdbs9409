@@ -50,8 +50,6 @@
 
 ### ⭐⭐⭐
 
-Python
-
 ✔️ <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">  
 
 - **Spark 기반 자연어처리 프로젝트**  
@@ -65,8 +63,6 @@ Python
 
 ---
 
-Flutter(Dart)
-
 ✔️ <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">  
 
 - 자취생 대상 커뮤니티 앱 개발  
@@ -75,8 +71,6 @@ Flutter(Dart)
 - **네이버 API 연동**, **비동기 처리(FutureBuilder)** 구현
 
 ---
-
-C
 
 ✔️ <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">  
 
@@ -88,15 +82,16 @@ C
 
 ### ⭐⭐
 
-JavaScript / Java
+
 
 ✔️ <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  
-✔️ <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white">  
-
 - Node.js 서버 구현  
+
+✔️ <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white">  
 - 아파치 톰캣 웹페이지 서버 구축
 
----
+
+----
 
 ### ⭐
 
