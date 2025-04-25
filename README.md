@@ -105,9 +105,15 @@ Jmeter와 Postgre SQL을 통한 성능테스트 진행
 ECT 
 
 
-잔기술 
+잔기술ㅎㅎ 
+
+**사주**보기 
+정보처리기사 
+SQLD 
+ADSP 
+토익925 
+오픽IH
 PPT/발표 
-사주보기 
 
 ![N|Solid](https://i.imgur.com/56QYiUM.gif)
 
