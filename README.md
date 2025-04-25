@@ -125,7 +125,7 @@ C++
 
 
 
-## 🌱 ECT (Extra Cool Talent)
+## 🌱 ECT
 
 - 잔기술: **사주 보기**, **PPT 제작 및 발표**
 
