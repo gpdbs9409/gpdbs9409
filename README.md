@@ -131,7 +131,7 @@ KIND(Korea Overseas Infrastructure & Urban Development Corporation)
 
 금융결제원 기업탐방 및 특강수강
 
-교내 핀테크 특강수강(마이데이터나 샌드박스 등 지식)
+교내 핀테크 특강수강(마이데이터/샌드박스/넥스트 트레이드 등 도메인지식 함양)
 
 
 ## 🌱 ECT
