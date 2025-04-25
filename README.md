@@ -25,7 +25,7 @@ KIND(Korea Overseas Infrastructure & Urban Development Corporation)
 ✔️ <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">  
 
 - **Spark 기반 자연어처리 프로젝트**  
-  → 알고리즘 성능 비교 + r연어 처리  
+  → 알고리즘 성능 비교 + 자연어 처리  
 
 - **금융공학 수업 수강**
 
