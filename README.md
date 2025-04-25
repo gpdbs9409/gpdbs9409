@@ -16,6 +16,7 @@
 1.소통의 키포인트는 상대방의 요구사항과 사전지식을 먼저 파악하는 것(와다다다 쏟아내기X)
 2.경청하려는 자세:🐶떡같이 말해도 찰떡같이 알아들을려고 **노력**하자
 
+
 **서울경기지역 대학 PT 연합동아리 운영 경력**
 ⭐배운 것 
 모든 것은 회의와 기록(공유)가 중요하다>>제가 쓰겠습니다
@@ -25,9 +26,9 @@
    
 (준)파워 블로거
 쿠팡입점 판매자
-편입시험 도전과 실패
+편입시험 도전과 실
 혼자여행 - 경상지역 내일로,중국,방콕,치앙마이,라오스
-히말라야 찍먹(친구들과)
+히말라야산맥 찍먹
 다양한 운동(스쿼시,요가,필라테스,수영,헬스(PT),스피닝,러닝)
 남의 학과 전공수업 듣기(경영학과,생화학과)
 홍콩 교환학생
@@ -39,7 +40,7 @@
 **저 또한 시도를 좋아하는 성격**
 => 동료의 제안을 판단하지 않기+ 열린마음으로 같이 해보자고 하는 팀원이 되겠습니다
 
-
+🥹단점 
 
 ## ✌🏻컴퓨터 공학도로서 배운 것✌🏻
 
@@ -62,7 +63,20 @@
 
 
 ✔️<img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">
+
+*진행 내용:자취생 대상 커뮤니티 어플에서 
+**피그마**로 기획 및 디자인을 진행하고
+**안드로이드 스튜디오**로 프론트엔드 개발 진행(MVC)모델 구현 
+
++네이버API 이용/비동기 (futurebuiler)서비스
+
 ✔️<img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">
+
+*리눅스 우분투 기반 그룹채팅창 프로그램(로컬)
+멀티스레드(pthread)구현,mutex 
+
+Jmeter와 Postgre SQL을 통한 성능테스트 진행 
+
 ✔️<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 
@@ -82,6 +96,8 @@
 
  <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/GRE-%23646B8C?style=for-the-badge"> <img src="https://img.shields.io/badge/Hadoop-%23FDB813?style=for-the-badge&logo=apachehadoop&logoColor=black"> <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
 
+🥹약점 
+배포 지식과 코딩테스트 . . . 
 
 -------- 
 
