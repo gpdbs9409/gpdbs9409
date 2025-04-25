@@ -48,7 +48,9 @@
 
 ---
 
-### ⭐ Python
+### ⭐⭐⭐
+
+Python
 
 ✔️ <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">  
 
@@ -63,7 +65,7 @@
 
 ---
 
-### ⭐ Flutter
+Flutter(Dart)
 
 ✔️ <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">  
 
@@ -74,7 +76,7 @@
 
 ---
 
-### ⭐ C
+C
 
 ✔️ <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">  
 
@@ -84,7 +86,9 @@
 
 ---
 
-### ⭐ JavaScript / Java
+### ⭐⭐
+
+JavaScript / Java
 
 ✔️ <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  
 ✔️ <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white">  
@@ -94,7 +98,9 @@
 
 ---
 
-### ⭐ C++
+### ⭐
+
+C++
 
 <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 
