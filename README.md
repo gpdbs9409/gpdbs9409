@@ -18,11 +18,13 @@
 - **Spark 기반 자연어처리 프로젝트**  
   → 알고리즘 성능 비교 + r연어 처리  
 
-- **금융공학 수업 수강**  
-- 다양한 외부 라이브러리 사용  
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white">  
-  <img src="https://img.shields.io/badge/BeautifulSoup-%23377091?style=for-the-badge&logo=BeautifulSoup&logoColor=white">  
-  → Google 번역 라이브러리 등 활용
+- **금융공학 수업 수강**
+
+  **다양한 외부 라이브러리 사용 **
+  
+  → Google 번역 라이브러리
+  → Selenium
+  → Bs4
 
 ---
 
