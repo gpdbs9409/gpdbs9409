@@ -16,7 +16,6 @@ KIND(Korea Overseas Infrastructure & Urban Development Corporation)
 
 ## ✌🏻 컴퓨터공학도로서 배운 것 ✌🏻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpdbs9409&layout=compact)
 
 ---
 
