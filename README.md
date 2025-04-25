@@ -34,11 +34,10 @@
 
 ⭐위의 것들을 통해 어필하고 싶은 점
 
-팀원을 **존중**하고 **존경** 합니다다
+팀원을 **존중**하고 **존경** 합니다
 
 **저 또한 시도를 좋아하는 성격**
 => 동료의 제안을 판단하지 않기+ 열린마음으로 같이 해보자고 하는 팀원이 되겠습니다
-
 
 
 
@@ -51,10 +50,8 @@
 ⭐⭐⭐
 ✔️<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 
-
-<img src="https://img.shields.io/badge/NLP-%23646B8C?style=for-the-badge"> 
 1. **스파크**기반 자연어처리 프로젝트 
-알고리즘 성능비교/자연어처리 
+알고리즘 성능비교+ r연어처리 
 
 2.금융공학과 수업 
 
@@ -65,7 +62,7 @@
 
 
 ✔️<img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">
+✔️<img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">
 ✔️<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 
