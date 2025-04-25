@@ -5,14 +5,6 @@
 
 ------
 
-## Final Vocabulary:목표와 가치관
-KIND(Korea Overseas Infrastructure & Urban Development Corporation)
-
-한국인프라공사 근무
-
-![1](https://github.com/user-attachments/assets/39b29b09-4863-4789-97d2-9acfa63fe9ff)
-![1](https://github.com/user-attachments/assets/5cf11607-8643-4619-bee0-09919a6f76bc)
-
 
 ## ✌🏻 컴퓨터공학도로서 배운 것 ✌🏻
 
@@ -120,6 +112,16 @@ KIND(Korea Overseas Infrastructure & Urban Development Corporation)
   동료의 제안을 쉽게 판단하지 않고, **열린 마음**으로 함께 해보자는 팀원이 되겠습니다.
 
 🥹 단점: 약간의 **오버**, **부풀리기**
+
+
+## Final Vocabulary:목표와 가치관
+KIND(Korea Overseas Infrastructure & Urban Development Corporation)
+
+한국인프라공사 근무
+
+![1](https://github.com/user-attachments/assets/39b29b09-4863-4789-97d2-9acfa63fe9ff)
+![1](https://github.com/user-attachments/assets/5cf11607-8643-4619-bee0-09919a6f76bc)
+
 
 ---
 
