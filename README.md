@@ -7,9 +7,6 @@
 
 ## Final Vocabulary: KIND
 
-![image](https://github.com/user-attachments/assets/a9200c75-2514-4677-bd18-056974132bee)
-![image](https://github.com/user-attachments/assets/cd49923d-eb1b-49fd-a3b1-a44d91debd7a)
-
 
 ## ✌🏻 컴퓨터공학도로서 배운 것 ✌🏻
 
