@@ -1,6 +1,7 @@
-안녕하세요 저는 김혜윤 입니다 *^^*
+안녕하세요 저는 **김혜윤** 입니다 ^^
 
 🏫서울과학기술대학교 컴퓨터공학과 졸업
+
 🏢해커스 교육 서비스기획 인턴십 
 
 ## ✌🏻성격적 장점✌🏻
@@ -33,8 +34,11 @@
 
 ⭐위의 것들을 통해 어필하고 싶은 점
 
-저 또한 시도를 좋아하는 성격
+팀원을 **존중**하고 **존경** 합니다다
+
+**저 또한 시도를 좋아하는 성격**
 => 동료의 제안을 판단하지 않기+ 열린마음으로 같이 해보자고 하는 팀원이 되겠습니다
+
 
 
 
@@ -46,13 +50,23 @@
 
 ⭐⭐⭐
 ✔️<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+
+
 <img src="https://img.shields.io/badge/NLP-%23646B8C?style=for-the-badge"> 
+1. **스파크**기반 자연어처리 프로젝트 
+알고리즘 성능비교/자연어처리 
 
-<img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/BeautifulSoup-%23377091?style=for-the-badge&logo=BeautifulSoup&logoColor=white">
+2.금융공학과 수업 
 
-<img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">
+3.다양한 외부라이브러리 사용<img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/BeautifulSoup-%23377091?style=for-the-badge&logo=BeautifulSoup&logoColor=white">
+구글 번역 라이브러리
+
+
+
+
+✔️<img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+✔️<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 
 ⭐⭐
