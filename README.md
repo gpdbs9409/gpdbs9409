@@ -38,7 +38,7 @@ KIND(Korea Overseas Infrastructure & Urban Development Corporation)
 
 ✔️ <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">  
 
-- 자취생 대상 커뮤니티 앱 개발  
+- 자취생 대상 커뮤니티 앱 개발(기획 및 프론트엔드 개발 참여)  
 - **Figma**로 기획 & 디자인  
 - **Android Studio**에서 프론트엔드(MVC) 구현  
 - **네이버 API 연동**, **비동기 처리(FutureBuilder)** 구현
@@ -51,7 +51,7 @@ KIND(Korea Overseas Infrastructure & Urban Development Corporation)
 - Socket Programming  
 - 멀티스레드(pthread), mutex 동기화  
 - **JMeter + PostgreSQL**로 성능 테스트 진행
-- 우수작 선정(추후 강의자료 선정)
+- 강좌 우수작 선정(개인 텀프로젝트,추후 강의자료 선정)
 ---
 
 ### ⭐⭐
