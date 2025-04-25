@@ -1,121 +1,132 @@
-안녕하세요 저는 **김혜윤** 입니다 ^^
+안녕하세요, 저는 **김혜윤** 입니다. 😊
 
-🏫서울과학기술대학교 컴퓨터공학과 졸업
+🏫 서울과학기술대학교 컴퓨터공학과 졸업  
+🏢 해커스 교육 서비스기획 인턴십  
 
-🏢해커스 교육 서비스기획 인턴십 
+---
 
-## ✌🏻성격적 장점✌🏻
+## ✌🏻 성격적 장점 ✌🏻
 
-1.커뮤니케이션
+### 1. 커뮤니케이션 능력
 
-**수학과외**
-금수저 외고생부터 
-저소득층 교육봉사까지 
+**수학 과외**  
+금수저 외고생부터 저소득층 교육봉사까지 다양하게 경험했습니다.
 
-⭐배운 것 
-1.소통의 키포인트는 상대방의 요구사항과 사전지식을 먼저 파악하는 것(와다다다 쏟아내기X)
-2.경청하려는 자세:🐶떡같이 말해도 찰떡같이 알아들을려고 **노력**하자
+⭐ 배운 것  
+- 소통의 키포인트는 **상대방의 요구사항과 사전지식**을 먼저 파악하는 것!  
+- 🐶 떡같이 말해도 찰떡같이 알아듣기 위해 **경청하려는 자세**가 중요함.
 
+**서울경기지역 대학 PT 연합동아리 운영 경력**  
+- 회의와 기록 공유의 중요성 실감 👉 “제가 쓰겠습니다”  
+- 괜찮겠지 넘겨짚기 ❌ 독단적 결정 ❌
 
-**서울경기지역 대학 PT 연합동아리 운영 경력**
-⭐배운 것 
-모든 것은 회의와 기록(공유)가 중요하다>>제가 쓰겠습니다
-독단적으로 결정 하지 말 것(괜찮겠지 넘겨 짚기X)
+---
 
-2. 나름 다양한 경험
-   
-(준)파워 블로거
-쿠팡입점 판매자
-편입시험 도전과 실
-혼자여행 - 경상지역 내일로,중국,방콕,치앙마이,라오스
-히말라야산맥 찍먹
-다양한 운동(스쿼시,요가,필라테스,수영,헬스(PT),스피닝,러닝)
-남의 학과 전공수업 듣기(경영학과,생화학과)
-홍콩 교환학생
+### 2. 나름 다양한 경험들
 
-⭐위의 것들을 통해 어필하고 싶은 점
+- (준) 파워 블로거  
+- 쿠팡 입점 판매자  
+- 편입시험 도전과 실패  
+- 혼자 여행: 경상지역 내일로 / 중국 / 방콕 / 치앙마이 / 라오스  
+- 히말라야 산맥 찍먹  
+- 다양한 운동: 스쿼시, 요가, 필라테스, 수영, 헬스(PT), 스피닝, 러닝  
+- 타 학과 전공 수업 수강 (경영학과, 생화학과)  
+- 홍콩 교환학생
 
-팀원을 **존중**하고 **존경** 합니다
+⭐ 위의 경험을 통해 어필하고 싶은 점  
+- 팀원을 **존중**하고 **존경**하는 태도  
+- **시도를 좋아하는 성격** →  
+  동료의 제안을 쉽게 판단하지 않고, **열린 마음**으로 함께 해보자는 팀원이 되겠습니다.
 
-**저 또한 시도를 좋아하는 성격**
-=> 동료의 제안을 판단하지 않기+ 열린마음으로 같이 해보자고 하는 팀원이 되겠습니다
+🥹 단점: 약간의 **오버**, **욕심**
 
-🥹단점 
+---
 
-## ✌🏻컴퓨터 공학도로서 배운 것✌🏻
+## ✌🏻 컴퓨터공학도로서 배운 것 ✌🏻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpdbs9409&layout=compact)
 
+---
 
+### ⭐ Python
 
-⭐⭐⭐
-✔️<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+✔️ <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">  
 
-1. **스파크**기반 자연어처리 프로젝트 
-알고리즘 성능비교+ r연어처리 
+- **Spark 기반 자연어처리 프로젝트**  
+  → 알고리즘 성능 비교 + r연어 처리  
 
-2.금융공학과 수업 
+- **금융공학 수업 수강**  
+- 다양한 외부 라이브러리 사용  
+  <img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white">  
+  <img src="https://img.shields.io/badge/BeautifulSoup-%23377091?style=for-the-badge&logo=BeautifulSoup&logoColor=white">  
+  → Google 번역 라이브러리 등 활용
 
-3.다양한 외부라이브러리 사용<img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/BeautifulSoup-%23377091?style=for-the-badge&logo=BeautifulSoup&logoColor=white">
-구글 번역 라이브러리
+---
 
+### ⭐ Flutter
 
+✔️ <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">  
 
+- 자취생 대상 커뮤니티 앱 개발  
+- **Figma**로 기획 & 디자인  
+- **Android Studio**에서 프론트엔드(MVC) 구현  
+- **네이버 API 연동**, **비동기 처리(FutureBuilder)** 구현
 
-✔️<img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">
+---
 
-*진행 내용:자취생 대상 커뮤니티 어플에서 
-**피그마**로 기획 및 디자인을 진행하고
-**안드로이드 스튜디오**로 프론트엔드 개발 진행(MVC)모델 구현 
+### ⭐ C
 
-+네이버API 이용/비동기 (futurebuiler)서비스
+✔️ <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">  
 
-✔️<img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">
+- 리눅스 우분투 기반 로컬 그룹 채팅 프로그램 개발  
+- 멀티스레드(pthread), mutex 동기화  
+- **JMeter + PostgreSQL**로 성능 테스트 진행
 
-*리눅스 우분투 기반 그룹채팅창 프로그램(로컬)
-멀티스레드(pthread)구현,mutex 
+---
 
-Jmeter와 Postgre SQL을 통한 성능테스트 진행 
+### ⭐ JavaScript / Java
 
-✔️<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+✔️ <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  
+✔️ <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white">  
 
+- Node.js 서버 구현  
+- 아파치 톰캣 웹페이지 서버 구축
 
-⭐⭐
+---
 
-<img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-
-<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white"> 
-<img src="https://img.shields.io/badge/JMeter-%23D24939?style=for-the-badge&logo=apachejmeter&logoColor=white">
+### ⭐ C++
 
 <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 
-⭐
+---
 
- <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/Apache_Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+### 🥹 약점
 
+- **CI/CD (AWS, Docker 등)**  
+  → 현재 인프런 강의를 통해 보완 중입니다.
 
- <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/GRE-%23646B8C?style=for-the-badge"> <img src="https://img.shields.io/badge/Hadoop-%23FDB813?style=for-the-badge&logo=apachehadoop&logoColor=black"> <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
+- **코딩테스트 (알고리즘/이산수학)**  
+  → 꾸준한 연습으로 실전 감각을 끌어올리는 중입니다.
 
-🥹약점 
-배포 지식과 코딩테스트 . . . 
+---
 
--------- 
+## 🌱 ECT (Extra Cool Talent)
 
+- 잔기술: **사주 보기**, **PPT 제작 및 발표**
 
-ECT 
+---
 
+## 🏅 자격증 & 어학 시험
 
-잔기술ㅎㅎ 
+| 자격증 / 어학시험 | 점수 / 등급 | 비고 |
+|------------------|------------|------|
+| 정보처리기사       | 합격         | 국가기술자격 |
+| SQLD             | 합격         | 한국데이터산업진흥원 |
+| ADSP             | 합격         | 데이터 분석 준전문가 |
+| TOEIC            | 925점       | 영어 |
+| OPIc             | IH          | 영어 말하기 등급 |
 
-**사주**보기 
-정보처리기사 
-SQLD 
-ADSP 
-토익925 
-오픽IH
-PPT/발표 
+---
 
 ![N|Solid](https://i.imgur.com/56QYiUM.gif)
-
-
 
