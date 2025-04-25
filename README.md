@@ -35,7 +35,9 @@ https://github.com/gpdbs9409/Big_Data_NLP
 - **Figma**로 기획 & 디자인  
 - **Android Studio**에서 프론트엔드(MVC) 구현  
 - **네이버 API 연동**, **비동기 처리(FutureBuilder)** 구현
-- 졸업작품 우수상 
+- 졸업작품 우수상
+
+- https://github.com/Jachwi-in
 ---
 
 ✔️ <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">  
