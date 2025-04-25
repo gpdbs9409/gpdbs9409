@@ -7,7 +7,7 @@
 
 ## Final Vocabulary: 
 KIND(Korea Overseas Infrastructure & Urban Development Corporation)
-
+한국인프라공사 근무
 
 ![1](https://github.com/user-attachments/assets/39b29b09-4863-4789-97d2-9acfa63fe9ff)
 ![1](https://github.com/user-attachments/assets/5cf11607-8643-4619-bee0-09919a6f76bc)
