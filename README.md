@@ -5,7 +5,7 @@
 
 ------
 
-## Final Vocabulary: 
+## Final Vocabulary:목표와 가치관
 KIND(Korea Overseas Infrastructure & Urban Development Corporation)
 
 한국인프라공사 근무
