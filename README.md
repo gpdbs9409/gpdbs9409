@@ -22,9 +22,9 @@
 
   **다양한 외부 라이브러리 사용 **
   
-  → Google 번역 라이브러리
-  → Selenium
-  → Bs4
+  - Google 번역 라이브러리
+  - Selenium
+  - Bs4
 
 ---
 
