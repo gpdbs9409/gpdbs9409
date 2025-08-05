@@ -27,29 +27,19 @@
 
 ### 경험해본 것
 
-⭐⭐⭐
-
-1. <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">  
+<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">  
 
 - **Spark 기반 자연어처리 프로젝트**  
   → 알고리즘 성능 비교 + 자연어 처리  
 
 
-2. <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">  
+<img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">  
 
 - 자취생 대상 커뮤니티 앱 개발(기획 및 프론트엔드 개발 참여)  
-- **Figma**로 기획 & 디자인  
-- **Android Studio**에서 프론트엔드(MVC) 구현  
-- **네이버 API 연동**, **비동기 처리(FutureBuilder)** 구현
+- **Android Studio**
 - 졸업작품 우수상
 
-
-
----
-
-### ⭐⭐
-
-✔️ <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">  
+ <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">  
 
 - 리눅스 우분투 기반 로컬 그룹 채팅 프로그램 개발
 - Socket Programming  
@@ -57,12 +47,10 @@
 - **JMeter + PostgreSQL**로 성능 테스트 진행
 - 강좌 우수작 선정(개인 텀프로젝트,추후 강의자료 선정)
 
-
-
-✔️ <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  
+ <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  
 - Node.js 서버 구현  
 
-✔️ <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white">  
+ <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white">  
 - 아파치 톰캣 웹페이지 서버 구축
 
 
