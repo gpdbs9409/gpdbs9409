@@ -1,35 +1,41 @@
-안녕하세요, 저는 **김혜윤** 입니다. 😊
-
-🏫 서울과학기술대학교 컴퓨터공학과 졸업  
-🏢 해커스 교육 서비스기획 인턴십  
-
-------
+### 안녕하세요! 책임감 있는 백엔드 개발자 **김혜윤** 입니다. 😊
 
 
-## ✌🏻 컴퓨터공학도로서 배운 것 ✌🏻
+<img width="1280" height="720" alt="타임라인" src="https://github.com/user-attachments/assets/fd2307fe-7794-4d4f-997d-b1942c19401b" />
+
+
+
+## 🏅 자격증 
+| 자격증명 | 점수 / 등급 | 비고 |
+|------------------|------------|------|
+| 정보처리기사       | 합격         | 국가기술자격 |
+| SQLD             | 합격         | 한국데이터산업진흥원 |
+| ADSP             | 합격         | 데이터 분석 준전문가 |
+| AWS-CLF            | 합격         | AWS |
+
+
+## 🏅 어학
+| 자격증명 | 점수 / 등급 | 비고 |
+|------------------|------------|------|
+| TOEIC            | 925점       | 영어 |
+| OPIc             | IH          | 영어 말하기 등급 |
+
+
 
 
 ---
 
-### ⭐⭐⭐
+### 경험해본 것
 
-✔️ <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">  
+⭐⭐⭐
+
+1. <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">  
 
 - **Spark 기반 자연어처리 프로젝트**  
   → 알고리즘 성능 비교 + 자연어 처리  
 
-- **금융공학 수업 수강**
 
-- **다양한 외부 라이브러리 사용 **
-  
-  - Google 번역 라이브러리
-  - Selenium
-  - Bs4
-
-https://github.com/gpdbs9409/Big_Data_NLP
----
-
-✔️ <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">  
+2. <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">  
 
 - 자취생 대상 커뮤니티 앱 개발(기획 및 프론트엔드 개발 참여)  
 - **Figma**로 기획 & 디자인  
@@ -37,8 +43,11 @@ https://github.com/gpdbs9409/Big_Data_NLP
 - **네이버 API 연동**, **비동기 처리(FutureBuilder)** 구현
 - 졸업작품 우수상
 
-- https://github.com/Jachwi-in
+
+
 ---
+
+### ⭐⭐
 
 ✔️ <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=C&logoColor=white">  
 
@@ -48,11 +57,6 @@ https://github.com/gpdbs9409/Big_Data_NLP
 - **JMeter + PostgreSQL**로 성능 테스트 진행
 - 강좌 우수작 선정(개인 텀프로젝트,추후 강의자료 선정)
 
-- https://github.com/gpdbs9409/LetStudy
----
-
-### ⭐⭐
-
 
 
 ✔️ <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  
@@ -61,29 +65,10 @@ https://github.com/gpdbs9409/Big_Data_NLP
 ✔️ <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white">  
 - 아파치 톰캣 웹페이지 서버 구축
 
-https://github.com/gpdbs9409/-Group_Account
-----
-
-### ⭐
-
-<img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 
 
 
----
-
-### 🥹 약점
-
-- **CI/CD (AWS, Docker 등)**  
-  → 현재 인프런 강의를 통해 보완 중입니다.
-
-- **코딩테스트 (알고리즘/이산수학)**  
-  → 꾸준한 연습으로 실전 감각을 끌어올리는 중입니다.
-
----
----
-
-## ✌🏻 성격적 장점 ✌🏻
+## 저는 이런사람입니다
 
 ### 1. 커뮤니케이션 능력
 
@@ -94,8 +79,8 @@ https://github.com/gpdbs9409/-Group_Account
 - 소통의 키포인트는 **상대방의 요구사항과 사전지식**을 먼저 파악하는 것!  
 - 🐶 떡같이 말해도 찰떡같이 알아듣기 위해 **경청하려는 자세**가 중요함.
 
-**서울경기지역 대학 PT 연합동아리 운영 경력**  
-- 회의와 기록 공유의 중요성 실감 👉 “제가 쓰겠습니다”  
+**대학 PT 연합동아리 운영진**  
+- 회의와 기록 공유의 중요성 실감
 - 괜찮겠지 넘겨짚기 ❌ 독단적 결정 ❌
 
 ---
@@ -104,54 +89,17 @@ https://github.com/gpdbs9409/-Group_Account
 
 - (준) 파워 블로거  
 - 쿠팡 입점 판매자(중국 사입) 
-- 편입시험 도전과 실패  
-- 혼자 여행: 경상지역 내일로 / 중국 / 방콕 / 치앙마이 / 라오스  
+- 편입시험 도전과 실패 
 - 히말라야 산맥 찍먹  
-- 다양한 운동: 스쿼시, 요가, 필라테스, 수영, 헬스(PT), 스피닝, 러닝  
-- 타 학과 전공 수업 수강 (경영학과, 생화학과)  
-- 홍콩 교환학생
-
-⭐ 위의 경험을 통해 어필하고 싶은 점  
-- 팀원을 **존중**하고 **존경**하는 태도  
+- 다양한 운동: 스쿼시, 요가, 필라테스, 수영, 헬스(PT), 스피닝, 러닝
+- 
+⭐ 배운것 
+- 팀원을 **존경**하는 태도  
 - **시도를 좋아하는 성격** →  
   동료의 제안을 쉽게 판단하지 않고, **열린 마음**으로 함께 해보자는 팀원이 되겠습니다.
 
-🥹 단점: 약간의 **오버**, **부풀리기**
 
 
-
-
-
----
-
-## 금융도메인 지식 
-
-경영학과 수업 수강
-
-금융감독원 국제교류처 아르바이트
-
-금융결제원 기업탐방 및 특강수강
-
-교내 핀테크 특강수강(마이데이터/샌드박스/넥스트 트레이드 등 도메인지식 함양)
-
-
-## 🌱 ECT
 
 - 잔기술: **사주 보기**, **PPT 제작 및 발표**
-
----
-
-## 🏅 자격증 & 어학 시험
-
-| 자격증 / 어학시험 | 점수 / 등급 | 비고 |
-|------------------|------------|------|
-| 정보처리기사       | 합격         | 국가기술자격 |
-| SQLD             | 합격         | 한국데이터산업진흥원 |
-| ADSP             | 합격         | 데이터 분석 준전문가 |
-| TOEIC            | 925점       | 영어 |
-| OPIc             | IH          | 영어 말하기 등급 |
-
----
-
-![N|Solid](https://i.imgur.com/56QYiUM.gif)
 
