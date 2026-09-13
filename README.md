@@ -79,7 +79,7 @@
 - FastAPI 기반 보조 서버 : Sentence Transformers + Qdrant를 활용한 벡터 임베딩·유사도 검색, 메인 서버와 REST API로 연동
 - JWT 인증 기반 Auth Server 연동, Flutter 클라이언트 지원
 
-🧩 Tech Stack : Spring Boot · Java · MySQL · Redis · Kafka · FastAPI · Qdrant · Flutter
+🧩 Tech Stack : Spring Boot · Java · MySQL · Redis  · FastAPI · Qdrant · React
 🔗 [Server GitHub Repository](https://github.com/Jachwi-in/Jachwi_in-Server-Spring) · [Vector Search GitHub Repository](https://github.com/gpdbs9409/Jachwi_in-FastAPI)
 
 ---
