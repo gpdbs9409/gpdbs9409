@@ -52,11 +52,11 @@
 
 
 ### 👑 프린세스 프로젝트
-**역할 : 기획 참여, 단독 개발 및 배포
+**역할 : 기획 참여, 단독 개발 및 배포**
 
 🔗 [GitHub Repository](https://github.com/gpdbs9409/Princess_Project)
 
-<br>
+
 ### 📝 기록해 Sol – 원클릭 매매일지 커뮤니티
 **역할 : 기획, Backend Engineer**
 
@@ -69,7 +69,7 @@
 🧩 Tech Stack : FastAPI · Python · SQLAlchemy · Docker
 🔗 [Backend GitHub Repository](https://github.com/SOL-lae-mal-lae/girokhaeSOL-backend)
 
-<br>
+
 ### 🏠 자취인 – 지도 기반 자취방 추천 플랫폼
 **역할 : 기획 및 개발
 
