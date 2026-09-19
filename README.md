@@ -81,8 +81,7 @@ MSA구조 설계
 - JWT 인증 기반 Auth Server 연동
 
 🧩 Tech Stack : Spring Boot  · MySQL · Redis  · FastAPI · Qdrant · React
-🔗 [Server GitHub Repository](https://github.com/Jachwi-in/Jachwi_in-Server-Spring) 
-[Vector Search GitHub Repository](https://github.com/gpdbs9409/Jachwi_in-FastAPI)
+🔗 https://github.com/gpdbs9409/Jachwi-in-monorepo
 
 ---
 
