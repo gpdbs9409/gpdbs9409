@@ -89,9 +89,9 @@ MSA구조 설계
 
 | Category            | Stack                                                                                                                                                                                                                                                                     |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language**         | <img src="https://img.shields.io/badge/Python-%23FBCEB1?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-%23FFD580?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/C-%23FF8C00?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-%23FAD6BF?style=for-the-badge&logo=JavaScript&logoColor=black"> |
-| **Framework / Lib** | <img src="https://img.shields.io/badge/React-%23ADD8E6?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-%23E0FFFF?style=for-the-badge&logo=next.js&logoColor=black"> <img src="https://img.shields.io/badge/FastAPI-%23A9E4D7?style=for-the-badge&logo=fastapi&logoColor=black">                                     |
-| **Database**        | <img src="https://img.shields.io/badge/MySQL-%23FFE5B4?style=for-the-badge&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/MariaDB-%23FAD6BF?style=for-the-badge&logo=mariadb&logoColor=black"> <img src="https://img.shields.io/badge/MongoDB-%23FBCEB1?style=for-the-badge&logo=mongodb&logoColor=black">                           |
-| **Testing**         | <img src="https://img.shields.io/badge/JMeter-%23F08080?style=for-the-badge&logo=apache-jmeter&logoColor=white">                                                                                                                                                          |
+| **Language**         | Java,Python,Typescript,JavaScript|
+| **Framework / Lib** | SpringBoot,NodeJs                            |
+| **Database**        |    MySql,MongoDB                       |
+| **Testing**         | Jest,Jmeter   |                                                                                                                      | **Infra**         |  AWS,Docker  |                         
 </content>
 </invoke>
