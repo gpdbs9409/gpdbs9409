@@ -7,7 +7,7 @@
 
 | 회사  |역할| 기간 |
 |---|---|---|
-| AX 스타트업 | Freelance Developer | 2026.05 ~ 2026.08 |
+| AX 스타트업 및 뷰티 스타트업| Freelance Developer | 2026.05 ~  |
 |  상권분석 스타트업(Series B)|Backend Engineer | 2025.08 ~ 2026.02 |
 | 해커스교육 | 서비스기획 인턴 | 2024.08 ~ 2024.11 |
 
